@@ -21,7 +21,7 @@ example = 'runner:__poetry_run'
 
 [tool.poetry.dependencies]
 python = "^3.7"
-"discord.py" = "^1.5"
+disnake = "^2.0"
 watchgod = "0.7"
 
 [tool.poetry.dev-dependencies]

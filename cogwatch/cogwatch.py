@@ -5,7 +5,7 @@ import sys
 from functools import wraps
 from pathlib import Path
 
-from discord.ext import commands
+from disnake.ext import commands
 from watchgod import Change, awatch
 
 
